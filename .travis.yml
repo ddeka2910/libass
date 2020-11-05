@@ -9,6 +9,7 @@ env:
 os:
   - linux
   - osx
+  - ppc64le
 
 compiler:
   - gcc
